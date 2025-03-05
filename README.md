@@ -1,7 +1,6 @@
-Hi, I’m @raviez11
-I’m interested in enlighting myself with Core Java and VLSI design & Microtechnology
-I’m currently learning Core Java & ECE(my UG course)
-Reach out @ --> nathravi1120@gmail.com
+Hi, I’m Ravi
+<br>
+it's time to get my hands dirty with lines of source codes
 
 <!---
 raviez11/raviez11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
